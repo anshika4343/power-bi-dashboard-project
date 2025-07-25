@@ -74,4 +74,5 @@ Office Supplies lead category sales at ₹0.64M
 🌎 Geographical Distribution: Optimizes inventory and delivery
 
 ⚡ Quick Decision Support: Stakeholders can spot issues and opportunities instantly
-
+screenshots 
+example:{https://github.com/anshika4343/power-bi-dashboard-project/blob/main/dashboard%20sales.png}
