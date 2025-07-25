@@ -75,4 +75,4 @@ Office Supplies lead category sales at ₹0.64M
 
 ⚡ Quick Decision Support: Stakeholders can spot issues and opportunities instantly
 screenshots 
-example:{https://github.com/anshika4343/power-bi-dashboard-project/blob/main/dashboard%20sales.png}
+example:(https://github.com/anshika4343/power-bi-dashboard-project/blob/main/dashboard%20sales.png)
